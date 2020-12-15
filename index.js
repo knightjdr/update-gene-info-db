@@ -13,10 +13,12 @@ const species = [
   'Danio rerio',
   'Dictyostelium discoideum',
   'Drosophila melanogaster',
+  'Escherichia coli (K12)',
   'Gallus gallus',
   'Homo sapiens',
   'Mus musculus',
   'Saccharomyces cerevisiae',
+  'Salmonella Typhimurium (LT2)',
   'Schizosaccharomyces pombe',
   'Xenopus laevis',
 ];
